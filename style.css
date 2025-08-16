@@ -11,9 +11,9 @@ html {
 }
 
 h1 {
-    text-shadow: 0.1em 0.1em 0.2em rgb(221, 9, 140);
-    font-size: 75px;
-    color: rgba(22, 6, 247, 1);
+    text-shadow: 0.1em 0.1em 0.2em rgb(7, 7, 7);
+    font-size: 45px;
+    color: rgb(6, 247, 26);
 }
 
 a {
